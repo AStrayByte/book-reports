@@ -3,6 +3,7 @@ title: World & Magic
 layout: default
 parent: Daughter of the Bone Forest
 nav_order: 3
+permalink: /books/daughter_of_the_bone_forest/world
 ---
 
 # World & Magic
@@ -33,7 +34,7 @@ Shifters aligned with one of four magic types. Each type has a geographical sour
 ### Feral
 {: #feral }
 
-When a familiar's animal mind overwhelms their human mind, losing rational control. Can be temporary (stress-induced) or chronic (like [Gran](characters.md#gran)'s condition).
+When a familiar's animal mind overwhelms their human mind, losing rational control. Can be temporary (stress-induced) or chronic (like [Gran](characters#gran)'s condition).
 
 ### Bone Rage
 {: #bone-rage }
@@ -73,7 +74,7 @@ Competitive events at school assemblies (not called "games"). Military recruiter
 ### Thane
 {: #thane }
 
-A military/noble rank. [Shaw](characters.md#shaw)'s entourage members are guaranteed this rank.
+A military/noble rank. [Shaw](characters#shaw)'s entourage members are guaranteed this rank.
 
 ### Jarls' Council
 {: #jarls-council }
@@ -112,12 +113,12 @@ The school for witches and familiars. Founded by the Witch Queen. Requires a sen
 ### Bone Forest
 {: #bone-forest }
 
-Sentient magical woodland made of bone pines -- trees with exposed bone-like bark that can move on their own. Has a special bond with [Rosy](characters.md#rosy). Source of bone magic.
+Sentient magical woodland made of bone pines -- trees with exposed bone-like bark that can move on their own. Has a special bond with [Rosy](characters#rosy). Source of bone magic.
 
 ### Frozen Mountain
 {: #frozen-mountain }
 
-Sentient/magical mountain where the Witch King resides and [Shaw](characters.md#shaw) grew up. Source of ice magic.
+Sentient/magical mountain where the Witch King resides and [Shaw](characters#shaw) grew up. Source of ice magic.
 
 ### Lake Bloom
 {: #lake-bloom }
@@ -127,12 +128,12 @@ Source of flower magic, located near [Multah](#multah). Has an underwater magica
 ### Obsidian Desert
 {: #obsidian-desert }
 
-Source of glass magic. Home to obsidian miners like [Oluk](characters.md#oluk)'s family.
+Source of glass magic. Home to obsidian miners like [Oluk](characters#oluk)'s family.
 
 ### Forest's Edge
 {: #forests-edge }
 
-[Rosy](characters.md#rosy)'s hometown, a small settlement at the border of the Bone Forest.
+[Rosy](characters#rosy)'s hometown, a small settlement at the border of the Bone Forest.
 
 ### Multah
 {: #multah }
@@ -157,12 +158,12 @@ Border between the Cursed Kingdom and Vinland.
 ### Daming
 {: #daming }
 
-A great nation across the ocean, home country of [Madam Xu](characters.md#madam-xu), Madam Bai, and Mister Xu.
+A great nation across the ocean, home country of [Madam Xu](characters#madam-xu), Madam Bai, and Mister Xu.
 
 ### Waiming Territories
 {: #waiming }
 
-A region where many Daming refugees settled. [Yuyan](characters.md#yuyan) and [Guanyu](characters.md#guanyu)'s families are from here.
+A region where many Daming refugees settled. [Yuyan](characters#yuyan) and [Guanyu](characters#guanyu)'s families are from here.
 
 ---
 

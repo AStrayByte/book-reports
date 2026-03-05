@@ -16,6 +16,6 @@ has_children: true
 
 ## Sections
 
-- [Plot Summary](summary.md) -- Full story breakdown by act
-- [Characters](characters.md) -- Every named character with descriptions
-- [World & Magic](world.md) -- Magic system, terminology, locations, and running gags
+- [Plot Summary](summary) -- Full story breakdown by act
+- [Characters](characters) -- Every named character with descriptions
+- [World & Magic](world) -- Magic system, terminology, locations, and running gags

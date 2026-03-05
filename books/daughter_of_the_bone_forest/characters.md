@@ -3,6 +3,7 @@ title: Characters
 layout: default
 parent: Daughter of the Bone Forest
 nav_order: 2
+permalink: /books/daughter_of_the_bone_forest/characters
 ---
 
 # Characters
