@@ -2,6 +2,9 @@ title: Book Reports
 description: Book summaries for when I want to read the sequel but forgot the first one
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-remote-theme
+
 url: ""
 baseurl: "/book-reports"
 
