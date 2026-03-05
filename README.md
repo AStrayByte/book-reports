@@ -20,6 +20,6 @@ This repo is set up to deploy as a site via GitHub Pages using the [Just the Doc
 
 1. Go to **Settings > Pages** in this repo
 2. Set source to **GitHub Actions** (or deploy from `main` branch)
-3. The site will be available at `https://<username>.github.io/book-reports/`
+3. The site will be available at `https://AStrayByte.github.io/book-reports/`
 
 All markdown files are also fully readable directly on GitHub without the site.
